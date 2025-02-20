@@ -1,6 +1,6 @@
 class LE3_2 implements Testable {
     
-    public void Display() { 
+    public void display() { 
         System.out.println("Display method implemented in Test class.");
     }
 
